@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+# output samples, but don't exclude the samples dir
+*.wav
+*.mp3
+!samples/*.wav
+.mypy_cache/
+.eggs/
+.pytest_cache/
+build
+dist
+*.egg-info/
+.directory
